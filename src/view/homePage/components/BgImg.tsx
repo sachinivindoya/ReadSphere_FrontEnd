@@ -1,14 +1,12 @@
 // background image.ts
 
-import React from 'react';
-
 const BgImg = () => {
   return (
-    <div className="bg-cover bg-center h-screen flex items-center justify-center" 
-    style={{ backgroundImage: 'url("./assets/HomeImages/HomeImage")' }}>
+    <div className="bg-auto w-full " 
+    style={{ backgroundImage: 'url("")' }}>
      
       {/* Your component content goes here */}
-      <h1 className="text-white text-4xl font-bold">Hello, Background Image!</h1>
+      <h1 className="text-black text-4xl font-bold">Hello, Background Image!</h1>
     </div>
   );
 };
