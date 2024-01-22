@@ -1,0 +1,8 @@
+/* src/styles/main.css */
+
+body {
+    background-image: url('../HomeImages/HomeImage.jpg'); /* Replace with the actual path to your background image */
+    background-size: auto;
+    background-position: center;
+  }
+  
