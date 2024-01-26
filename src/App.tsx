@@ -6,14 +6,15 @@
 
 import './App.css';
 import './assets/styles/home.css';
-import BgImg from './view/homePage/components/BgImg';
+import Login from './view/loginPage/Login';
+
 
 function App() {
 
 
   return (
     <>
-      <BgImg />
+      <Login />
 
     </>
   )
